@@ -1,0 +1,50 @@
+[
+  {
+    "id": "001",
+    "job": "Mozilla club lead, MIT AOE",
+    "titleLine": "",
+    "name": "Yogesh Gaikwad ",
+    "desc": "Meet the team lead of Mozilla club, MIT AOE. As his team describes him, he is a developer and a coder by his choice mastering the mantra of dedication and leadership. As a person, as a leader, he strongly believes <b>\"Talent wins games, but teamwork and intelligence win championships.\"</b>",
+    "photoUrl": "https://i.ibb.co/X4h4VDL/head-659651-1280.webp",
+    "linkedIn": "/dasdasd",
+    "facebook": "facebook url",
+    "github ": "github url",
+    "link": "speaker-details.html?speakerId=001"
+  },
+  {
+    "id": "002",
+    "job": "Content lead, Mozilla club MITAOE",
+    "titleLine": "",
+    "name": "Ambuj Mishra",
+    "desc": "Meet the Content team lead, Ambuj Mishra. A person who knows how to play his cards wisely. A short description for him could be technically strong, developer, coder, and a sweet poet. It is imperative to have such a talented person full of politeness and new ideas.",
+    "photoUrl": "https://i.ibb.co/X4h4VDL/head-659651-1280.webp",
+    "linkedIn": "/dasdasd",
+    "facebook": "facebook url",
+    "github ": "github url",
+    "link": "speaker-details.html?speakerId=002"
+  },
+  {
+    "id": "003",
+    "job": "Web development lead, Mozilla club MITAOE",
+    "titleLine": "",
+    "name": "Sagar Sonawane",
+    "desc": "A person with the right set of web development skills, wizard of Web development field as well as persistently building new websites, always exploring new technologies and exactly know how to turn adversity into opportunity, witty but wise",
+    "photoUrl": "https://i.ibb.co/YZ7wb45/sagar-sonawane.jpg",
+    "linkedIn": "/dasdasd",
+    "facebook": "facebook url",
+    "github ": "github url",
+    "link": "speaker-details.html?speakerId=003"
+  },
+  {
+    "id": "004",
+    "job": "Marketing Lead, Mozilla club MITAOE",
+    "titleLine": "",
+    "name": "Gajanan Khande ",
+    "desc": "A person with supreme communication skills and listening ability, a strategic thinker, as well as a good influencer in and out, expert of Business marketing and, holds a solid grasp of analytics",
+    "photoUrl": "https://i.ibb.co/X4h4VDL/head-659651-1280.webp",
+    "linkedIn": "/dasdasd",
+    "facebook": "facebook url",
+    "github ": "github url",
+    "link": "speaker-details.html?speakerId=004"
+  }
+]
