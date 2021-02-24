@@ -14,13 +14,14 @@ console.log(speakerId);
 fetch("../../data.json")
   .then((res) => res.json())
   .then((data) => {
+    console.log(data);
     const searcherdSpeaker = data.find((data) => data.id == speakerId);
     console.log(searcherdSpeaker);
     speakerName.innerText = searcherdSpeaker.name;
     speakerDesc.innerHTML = searcherdSpeaker.desc;
     speakerPhotoUrl.src = searcherdSpeaker.photoUrl;
-    speakerFacebook.href = searcherdSpeaker.linkedIn;
-    speakerLinkedIn.href = searcherdSpeaker.facebook;
+    speakerFacebook.href = "#";
+    speakerLinkedIn.href = searcherdSpeaker.linkedIn;
     speakerGithub.href = searcherdSpeaker.github;
     job.innerText = searcherdSpeaker.job;
   });

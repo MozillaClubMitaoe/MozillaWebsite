@@ -804,6 +804,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-weight: 700;
   margin-bottom: 10px;
 }
+@media (max-width: 450px) {
+  #speakers-details .details {
+    margin: 50px auto;
+    text-align: center;
+  }
+}
 
 #speakers-details .details .social {
   margin-bottom: 15px;
