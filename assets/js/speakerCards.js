@@ -17,7 +17,7 @@ fetch("../../data.json")
         titleLine,
       } = member;
 
-      const html = ` <div class="col-lg-4 col-md-6" id="${id}"> 
+      const html = ` <div class="col-6 col-lg-4 col-md-6" id="${id}"> 
               <div class="speaker" data-aos="fade-up" data-aos-delay="100">
                 <img
                   src="${photoUrl}"

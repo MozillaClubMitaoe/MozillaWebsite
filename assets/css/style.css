@@ -766,6 +766,18 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-style: italic;
 }
 
+@media (max-width: 450px) {
+  #speakers .speaker .details h3 {
+    font-size: 15px;
+    font-weight: 400;
+    margin-bottom: 5px;
+  }
+  #speakers .speaker .details p {
+    font-size: 10px;
+    margin-bottom: 15px;
+  }
+}
+
 #speakers .speaker .details .social {
   height: 30px;
 }
