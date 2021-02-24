@@ -72,7 +72,6 @@
   };
 
   //-----------------------------------------
-
   container.onmouseenter = onMouseEnterHandler;
   container.onmouseleave = onMouseLeaveHandler;
   container.onmousemove = onMouseMoveHandler;

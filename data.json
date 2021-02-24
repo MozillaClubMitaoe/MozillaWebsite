@@ -3,11 +3,11 @@
     "id": "001",
     "job": "Mozilla club lead, MIT AOE",
     "titleLine": "",
-    "name": "Yogesh Gaikwad ",
+    "name": "Yogesh Gaikwad",
     "desc": "Meet the team lead of Mozilla club, MIT AOE. As his team describes him, he is a developer and a coder by his choice mastering the mantra of dedication and leadership. As a person, as a leader, he strongly believes <b>\"Talent wins games, but teamwork and intelligence win championships.\"</b>",
-    "photoUrl": "https://i.ibb.co/X4h4VDL/head-659651-1280.webp",
+    "photoUrl": "https://i.ibb.co/vwX6D3K/1597584251756.jpg",
     "linkedIn": "https://www.linkedin.com/in/yogesh-gaikwad-776706194",
-    "facebook": "facebook url",
+    "facebook": "#",
     "github ": "https://github.com/yogesh0310",
     "mail": "ybgaikwad@mitaoe.ac.in",
     "link": "speaker-details.html?speakerId=001"
@@ -18,11 +18,12 @@
     "titleLine": "",
     "name": "Ambuj Mishra",
     "desc": "Meet the Content team lead, Ambuj Mishra. A person who knows how to play his cards wisely. A short description for him could be technically strong, developer, coder, and a sweet poet. It is imperative to have such a talented person full of politeness and new ideas.",
-    "photoUrl": "https://i.ibb.co/X4h4VDL/head-659651-1280.webp",
-    "linkedIn": "/dasdasd",
-    "facebook": "facebook url",
-    "github ": "github url",
-    "link": "speaker-details.html?speakerId=002"
+    "photoUrl": "https://i.ibb.co/xm3fGPM/1599035352580.jpg",
+    "linkedIn": "https://www.linkedin.com/in/ambuj-mishra-802707106/",
+    "facebook": "#l",
+    "github ": "https://github.com/Ambuj31",
+    "link": "speaker-details.html?speakerId=002",
+    "mail": "ambujmishra314@gmail.com"
   },
   {
     "id": "003",
@@ -31,10 +32,11 @@
     "name": "Sagar Sonawane",
     "desc": "A person with the right set of web development skills, wizard of Web development field as well as persistently building new websites, always exploring new technologies and exactly know how to turn adversity into opportunity, witty but wise",
     "photoUrl": "https://i.ibb.co/YZ7wb45/sagar-sonawane.jpg",
-    "linkedIn": "/dasdasd",
-    "facebook": "facebook url",
-    "github ": "github url",
-    "link": "speaker-details.html?speakerId=003"
+    "linkedIn": "https://www.linkedin.com/in/sagar-sonawane890/",
+    "facebook": "#",
+    "github ": "https://github.com/ssonawane511",
+    "link": "speaker-details.html?speakerId=003",
+    "mail": "ssonawane511@gmail.com"
   },
   {
     "id": "004",
@@ -42,10 +44,11 @@
     "titleLine": "",
     "name": "Gajanan Khande ",
     "desc": "A person with supreme communication skills and listening ability, a strategic thinker, as well as a good influencer in and out, expert of Business marketing and, holds a solid grasp of analytics",
-    "photoUrl": "https://i.ibb.co/X4h4VDL/head-659651-1280.webp",
-    "linkedIn": "/dasdasd",
-    "facebook": "facebook url",
-    "github ": "github url",
+    "photoUrl": "https://i.ibb.co/jRmWY5G/PSX-20200520-205936-2-1.jpg",
+    "linkedIn": "https://www.linkedin.com/in/gajanan-khande-a39b2a186",
+    "facebook": "#",
+    "github ": "#",
+    "mail": "gdkhande@mitaoe.ac.in",
     "link": "speaker-details.html?speakerId=004"
   }
 ]
